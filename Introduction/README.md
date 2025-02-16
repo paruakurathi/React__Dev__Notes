@@ -1,5 +1,7 @@
 Hello World using HTML
+
 Hello World using JS
+
 Hello World using React via CDN
 
 <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
