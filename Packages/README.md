@@ -1,13 +1,16 @@
 # What is npm?
-Node package Manager , used to install,update Javascript packages 
+Node package Manager.
+It is used to install, update Javascript packages.
 
 # what is npm init?
---> It generates Package.json file into the directory. 
+It generates Package.json file into the directory. 
 
 # Bundler:
 Tool combines the all JS code files into Single One that is shipped to production.
-types of bundlers -> parcel,webpack,browserfiy
-ex: create-react-app uses webpack bundler behind the scenes.
+
+Types of bundlers -> parcel,webpack,browserfiy
+
+Ex: create-react-app uses webpack bundler behind the scenes.
 
 # Package Manager:
 To install packages we need to install npm or yarn 
