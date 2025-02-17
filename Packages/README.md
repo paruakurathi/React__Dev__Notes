@@ -33,8 +33,10 @@ It is a configuration file for npm .
 
 # ^ vs ~:
 
-^: only minor updates happen in version
-~: major updates happen in versions
+^: only minor updates happen in versions.
+
+~: major updates happen in versions.
+
 so use only ^ for minor updates because when major updates happend it will break our code
 
                                     parcel
