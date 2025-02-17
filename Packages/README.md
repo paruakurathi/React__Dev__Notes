@@ -1,5 +1,5 @@
-What is npm?
-node package Manager , used to install,update Javascript packages 
+## What is npm?
+Node package Manager , used to install,update Javascript packages 
 
 what is npm init?
 --> It generates Package.json file into the directory. 
