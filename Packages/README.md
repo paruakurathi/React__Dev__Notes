@@ -8,16 +8,18 @@ It generates Package.json file into the directory.
 # Bundler:
 Tool combines the all JS code files into Single One that is shipped to production.
 
-Types of bundlers -> parcel,webpack,browserfiy
+Types of bundlers -> parcel, webpack, browserfiy
 
 Ex: create-react-app uses webpack bundler behind the scenes.
 
 # Package Manager:
-To install packages we need to install npm or yarn 
+To install packages we need to install npm or yarn.
+
 Ex: npm install package__name
 
 # Package.json file:
 It is a configuration file for npm .
+
 --> It contains information about name of project, version, description, test, git repository, Keyowrds,lincense or meta information about project.
 
 # Package-lock.json vs Package.json:
@@ -25,10 +27,12 @@ It is a configuration file for npm .
 --> In package-lock.json ,it maintains the exact version of those packages even it updated to latest version.
 
 # Dependency:Two Types
+
 1. Dev Dependency --> use it in Development Phase(ex:parcel:"^2.9.0" or ex:parcel:"~2.9.0")
 2. Normal Dependency --> use it in Production Phase(ex:parcel:"2.9.0")
 
-^ vs ~:
+# ^ vs ~:
+
 ^: only minor updates happen in version
 ~: major updates happen in versions
 so use only ^ for minor updates because when major updates happend it will break our code
