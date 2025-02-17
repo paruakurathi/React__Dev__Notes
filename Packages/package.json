@@ -1,0 +1,16 @@
+{
+  "name": "packages",
+  "version": "1.0.0",
+  "description": "All about npm packages,package.json,node_modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "react",
+    "npm",
+    "node_modules"
+  ],
+  "author": "Paru",
+  "license": "ISC"
+}
