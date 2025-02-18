@@ -21,3 +21,7 @@ const parent = React.createElement('div',{id:"parent"},
 )
 root.render(parent)
 console.log(parent);
+
+// React.createElement will create an object
+// To convert an object into html Element we use ReactDOM for display an element
+//React.createElement => Object => HtmlElement
