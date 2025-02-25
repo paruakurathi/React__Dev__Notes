@@ -1,8 +1,7 @@
 
 const heading = React.createElement('h1',{id:"head"},"React World");
 const root  = ReactDOM.createRoot(document.getElementById('react'));//accesing root
-root.render(heading);
-// console.log(heading);//Object
+root.render(heading);//ReactElement is an Object
 
 
 const parent = React.createElement('div',{id:"parent"},
